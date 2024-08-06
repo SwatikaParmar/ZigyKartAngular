@@ -1,0 +1,30 @@
+# Angular
+# ----------------------
+
+# compiled output
+dist/
+tmp/
+out-tsc/
+build/
+.aot/
+*.js
+*.js.map
+*.tsbuildinfo
+
+# dependencies
+node_modules/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# misc
+.DS_Store
+Thumbs.db
+*.iml
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
